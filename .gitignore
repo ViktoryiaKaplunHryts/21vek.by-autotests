@@ -1,0 +1,8 @@
+# Стандартные исключения для проектов IntelliJ IDEA
+.allure/**
+.idea/
+*.iml
+target/
+
+ # Исключаем файлы с настройками и паролями
+test-data.properties
